@@ -1,0 +1,27 @@
+Description: Server that will connect, and send simultaneous messages to each chat.
+Members: Ashley Mills, Amanda Gil, Lauren Atkinson, Stephen Ippolito, Nikolai Orekhov
+Date: 08 February 2021
+
+BreakDown:
+Ashley Mills: Client and server side
+Amanda Gil: Client side
+Lauren Atkinson: Socket connection
+Stephen Ippolito: Server Side
+Nikolai Orekhov: Client side
+
+How to run:
+ - Right click "ChatServer" - press run
+ - Right click "ChatClient", press run
+	- Enter your username desired
+	- Default room = 0
+	- Click "Send" button to send message in dialogue box
+	- Click "Room Name" button (Between "Send" and "Exit" buttons) to change room
+	- Click "Exit" to exit the chat server
+- Create multiple "ChatClients" to your liking
+- Once all programs are running you can now send
+ messages to the other chat.
+
+ Once the other person have Entered/Exited you will be notified!
+
+
+
